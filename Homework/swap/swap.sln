@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swap", "swap\swap.vcxproj", "{061D2251-5491-4465-8FAC-E78498605891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061D2251-5491-4465-8FAC-E78498605891}.Debug|x64.ActiveCfg = Debug|x64
+		{061D2251-5491-4465-8FAC-E78498605891}.Debug|x64.Build.0 = Debug|x64
+		{061D2251-5491-4465-8FAC-E78498605891}.Debug|x86.ActiveCfg = Debug|Win32
+		{061D2251-5491-4465-8FAC-E78498605891}.Debug|x86.Build.0 = Debug|Win32
+		{061D2251-5491-4465-8FAC-E78498605891}.Release|x64.ActiveCfg = Release|x64
+		{061D2251-5491-4465-8FAC-E78498605891}.Release|x64.Build.0 = Release|x64
+		{061D2251-5491-4465-8FAC-E78498605891}.Release|x86.ActiveCfg = Release|Win32
+		{061D2251-5491-4465-8FAC-E78498605891}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCE1145-68E7-42FF-AFEB-C8BFC8AEA03E}
+	EndGlobalSection
+EndGlobal
