@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\school\desktop\vector\vector\vector.h(154): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\school\desktop\vector\vector\vector.h(153): note: while compiling class template member function 'void CSC252HW2::Vector<int>::EnsureCapacity(void)'
+  c:\users\school\desktop\vector\vector\vector.h(123): note: see reference to function template instantiation 'void CSC252HW2::Vector<int>::EnsureCapacity(void)' being compiled
+  c:\users\school\desktop\vector\vector\vector.h(64): note: while compiling class template member function 'CSC252HW2::Vector<int>::Vector(size_t,T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\school\desktop\vector\vector\source.cpp(16): note: see reference to function template instantiation 'CSC252HW2::Vector<int>::Vector(size_t,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\school\desktop\vector\vector\source.cpp(16): note: see reference to class template instantiation 'CSC252HW2::Vector<int>' being compiled
+c:\users\school\desktop\vector\vector\vector.h(160): warning C4018: '<': signed/unsigned mismatch
+  vector.vcxproj -> C:\Users\School\Desktop\vector\Debug\vector.exe
